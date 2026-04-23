@@ -14,7 +14,7 @@ from PIL import Image
 
 load_dotenv()
 
-IP_TOKEN =getenv("BOT_TOKEN")
+API_TOKEN =getenv("BOT_TOKEN")
 
 logging.basicConfig(level=logging.INFO)
 
