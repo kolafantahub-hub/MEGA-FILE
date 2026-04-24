@@ -13,7 +13,7 @@ from PIL import Image
 logging.basicConfig(level=logging.INFO)
 
 # --- TOKENNI SHU YERGA YOZING ---
-TOKEN = "BU_YERGA_BOTFATHERDAN_OLINGAN_TOKENNI_QOYING" 
+TOKEN = "8420441013:AAGYYOygF3Nmk-cOIjVrrWcUuKq5NR7lLxo" 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
