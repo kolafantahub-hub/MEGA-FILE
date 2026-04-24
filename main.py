@@ -7,7 +7,7 @@ from aiogram.types import Message, FSInputFile
 from PIL import Image
 
 # Bot tokenini shu yerga yozing
-TOKEN = "SIZNING_BOT_TOKENINGIZ" 
+TOKEN = "8420441013:AAGYYOygF3Nmk-cOIjVrrWcUuKq5NR7lLxo" 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
